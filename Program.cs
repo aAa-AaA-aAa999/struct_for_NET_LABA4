@@ -3,7 +3,7 @@
 //Создать массив из семи объектов и упорядочить его по возрастанию среднего балла
 
 using System;
-using pringls = System.Console; //меняем Console на чипсы
+using pringls = System.Console; 
 
 // создаем структуру "Студент"
 struct Student
