@@ -5,7 +5,6 @@
 using System;
 using pringls = System.Console; 
 
-// создаем структуру "Студент"
 struct Student
 {
     public string name; // имя
